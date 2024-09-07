@@ -5,12 +5,14 @@ import PortfolioPage from './components/PortfolioPage';
 import InfoPage from './components/InfoPage';
 import Navbar from './components/Navbar';
 import ProjectPage from './components/ProjectPage'; 
+import ScrollToTop from './components/ScrollToTop';
 
 
 function App() {
   return (
     <Router>
       <Navbar />
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/portfolio" element={<PortfolioPage />} />
