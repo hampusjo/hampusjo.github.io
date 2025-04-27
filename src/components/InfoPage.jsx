@@ -45,8 +45,10 @@ const InfoPage = () => {
             <h2 className="text-xl md:text-3xl font-semibold dark:text-white">Kunskap och erfarenhet</h2>
 
             <h2 className="mt-2 text-lg md:text-2xl dark:text-white">Programmeringsspråk och ramverk</h2>
-            <p className="text-gray-600 dark:text-gray-300">• Erfarenhet av C#, Java och Python.</p>
-            <p className="text-gray-600 dark:text-gray-300">• HTML/CSS/JavaScript, React, Blazor. CSS-biblioteken Bootstrap och Tailwind.</p>
+            <p className="text-gray-600 dark:text-gray-300">• Erfarenhet av programmering med C#, Java och Python.</p>
+            <p className="text-gray-600 dark:text-gray-300">• Webbutveckling med .NET.</p>
+            <p className="text-gray-600 dark:text-gray-300">• Webbutveckling med React.</p>
+            <p className="text-gray-600 dark:text-gray-300">• Traditionell webbutveckling med HTML/CSS/JavaScript. Erfarenhet av CSS-biblioteken Bootstrap och Tailwind.</p>
             <p className="text-gray-600 dark:text-gray-300">• Databashantering med SQL. Erfarenhet av LINQ-frågor.</p>
 
             <h2 className="mt-2 text-lg md:text-2xl dark:text-white">Utvecklingsmiljöer</h2>
@@ -62,7 +64,7 @@ const InfoPage = () => {
             <p className="text-gray-600 dark:text-gray-300">Erfarenhet av Git.</p>
 
             <h2 className="mt-2 text-lg md:text-2xl dark:text-white">Bildbehandling och design</h2>
-            <p className="text-gray-600 dark:text-gray-300">Photoshop, Paint.NET, Canva och Figma.</p>
+            <p className="text-gray-600 dark:text-gray-300">Adobe Photoshop, Paint.NET, Canva och Figma.</p>
 
             <h2 className="mt-2 text-lg md:text-2xl dark:text-white">Övrigt</h2>
             <p className="text-gray-600 dark:text-gray-300">Mycket god vana i Windows-Officepaketet.</p>
